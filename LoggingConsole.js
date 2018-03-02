@@ -18,5 +18,3 @@ console.log(20 * 5)
 < undefined 
 document.write(20 / 5)
 < undefined
-
-
