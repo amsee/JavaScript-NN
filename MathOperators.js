@@ -1,4 +1,6 @@
 // * The 5 Most Common Mathematical Operators
+// * Assignment (=)
+// * Arithmetic (+ | - | / | *)
 
 > var myVar = 5 //? id0: 5
 < undefined
