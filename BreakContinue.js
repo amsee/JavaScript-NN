@@ -1,4 +1,4 @@
-// todo: JS-17 --- Break and Continue
+// todo: JS-18 --- Break and Continue
 
 for (i = 0; i < 10; i++) {
 
