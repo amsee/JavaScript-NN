@@ -18,7 +18,7 @@ link.getAttribute("class");
 <"ninja"
 link.getAttribute("class", "pie");
 <undefined
-link.setAttribute("alt","hello");
+link.setAttribute("alt", "hello");
 <undefined
 
 link.className;
