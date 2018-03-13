@@ -1,3 +1,5 @@
+// todo: JS-42 --- JAVASCRIPT TIMERS
+
 var colourChanger = document.getElementById("colour-changer");
 var colours = ["red", "blue", "green", "pink"];
 var counter = 0;
